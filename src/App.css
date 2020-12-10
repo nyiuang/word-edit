@@ -1,0 +1,23 @@
+@import '~antd/dist/antd.css';
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.h1 {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 0;
+}
+
+textarea {
+    resize: none;
+}
+
